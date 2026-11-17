@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Adjustable Conveyor Fixture project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/adjustable-conveyor-fixture.webp" width="100%" alt="adjustable-conveyor-fixture — project concept artwork">
 
 # Adjustable Conveyor Fixture
 
